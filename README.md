@@ -1,6 +1,6 @@
 # All Restaurants in Hampton, Virginia, US
 
-> Free BeamStation sample export with 25 rows and masked direct-contact fields.
+> Free BeamStation sample export with 35 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `337224` |
 | Location | Hampton |
 | Category | Restaurants |
-| Full dataset size | 269 records |
-| Free sample size | 25 records (9.29%) |
-| Last export | 2026-03-31T15:36:20.969157+00:00 |
+| Full dataset size | 355 records |
+| Free sample size | 35 records (9.86%) |
+| Last export | 2026-04-14T16:24:49.411158+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-hampton-virginia-us-sample-337224/releases/download/sample-latest/beamstation_337224_restaurants-us-va_SAMPLE_DIST.csv) |
 
 ## What is in this sample
