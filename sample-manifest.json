@@ -1,12 +1,12 @@
 {
-  "export_job_id": "5ff58a1f-b248-4331-9407-abbb1c3bc210",
+  "export_job_id": "91720160-04ba-4cde-9908-5f6a314995f0",
   "id_short": 337224,
-  "published_at": "2026-04-28T19:09:19Z",
+  "published_at": "2026-05-07T07:09:57Z",
   "repo_name": "all-restaurants-in-hampton-virginia-us-sample-337224",
   "sample_asset_name": "beamstation_337224_restaurants-us-va_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/337224/beamstation_337224_restaurants-us-va_SAMPLE_DIST.csv",
-  "sample_records": 35,
-  "sample_sha256": "7aab459de0a1be24a9c06723a0f5c5a4dd6d486dfdd7f5c0961e0df050e51b31",
-  "sample_size_bytes": 133090,
-  "total_records": 353
+  "sample_records": 37,
+  "sample_sha256": "66fe43848ff84a1a4b449371715971c582940a628b1c3edd80547e8128c32eba",
+  "sample_size_bytes": 117227,
+  "total_records": 374
 }
